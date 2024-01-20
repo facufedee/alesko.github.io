@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+header {
+    background: url('tu_imagen_de_fondo.jpg') no-repeat center center fixed;
+    background-size: cover;
+    padding: 20px;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.navbar-nav {
+    margin-right: 20px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.main-content {
+    padding: 20px;
+    color: #333;
+}
